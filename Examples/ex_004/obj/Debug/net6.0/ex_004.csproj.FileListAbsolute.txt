@@ -1,0 +1,15 @@
+C:\Users\aniki\Desktop\project\Examples\ex_004\obj\Debug\net6.0\ex_004.csproj.AssemblyReference.cache
+C:\Users\aniki\Desktop\project\Examples\ex_004\obj\Debug\net6.0\ex_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniki\Desktop\project\Examples\ex_004\obj\Debug\net6.0\ex_004.AssemblyInfoInputs.cache
+C:\Users\aniki\Desktop\project\Examples\ex_004\obj\Debug\net6.0\ex_004.AssemblyInfo.cs
+C:\Users\aniki\Desktop\project\Examples\ex_004\obj\Debug\net6.0\ex_004.csproj.CoreCompileInputs.cache
+C:\Users\aniki\Desktop\project\Examples\ex_004\bin\Debug\net6.0\ex_004.exe
+C:\Users\aniki\Desktop\project\Examples\ex_004\bin\Debug\net6.0\ex_004.deps.json
+C:\Users\aniki\Desktop\project\Examples\ex_004\bin\Debug\net6.0\ex_004.runtimeconfig.json
+C:\Users\aniki\Desktop\project\Examples\ex_004\bin\Debug\net6.0\ex_004.dll
+C:\Users\aniki\Desktop\project\Examples\ex_004\bin\Debug\net6.0\ex_004.pdb
+C:\Users\aniki\Desktop\project\Examples\ex_004\obj\Debug\net6.0\ex_004.dll
+C:\Users\aniki\Desktop\project\Examples\ex_004\obj\Debug\net6.0\refint\ex_004.dll
+C:\Users\aniki\Desktop\project\Examples\ex_004\obj\Debug\net6.0\ex_004.pdb
+C:\Users\aniki\Desktop\project\Examples\ex_004\obj\Debug\net6.0\ex_004.genruntimeconfig.cache
+C:\Users\aniki\Desktop\project\Examples\ex_004\obj\Debug\net6.0\ref\ex_004.dll
